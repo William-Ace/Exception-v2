@@ -19,9 +19,9 @@
     }
   },
   "rules": {
-    "comma-dangle": "off",
-    "no-extra-semi": "off",
-    "semi-spacing": "off",
-    "space-before-function-paren": "off"
+    "comma-dangle":"off",,
+    "no-extra-semi":"off",
+    "semi-spacing":"off",,
+    "space-before-function-paren":"off"
   }
 }
